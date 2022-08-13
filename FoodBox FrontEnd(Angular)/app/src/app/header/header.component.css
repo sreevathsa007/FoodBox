@@ -1,0 +1,35 @@
+.logo{
+    position:relative;
+    top: 8px;
+    height: 80px;
+    width: 105px;
+    cursor: pointer;
+}
+.header-title{
+    position: relative;
+    top: 40px;
+    left:25px;
+    font-family: "Papyrus", Fantasy;
+    font-style: italic;
+    font-size: 64px;
+    color: #99bdcf;
+}
+.btnMain{
+    font-size: 20px;
+}
+.btnMain:hover{
+    color: #8d8118;
+}
+.btnMain:hover{
+    color: #938919;
+}
+.bthHead:hover{
+    color: #758215;
+}
+.modal-footer button{
+    background-color: #95851a;
+    color:white
+}
+th{
+    color:#8a720e;
+}
